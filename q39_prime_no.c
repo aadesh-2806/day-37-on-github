@@ -7,7 +7,7 @@ void main()
 		
 	printf("hello\nenter value=");
 	scanf("%d",&n);
-	
+	 
 	i=2;
 	while(i<n)
 	{
